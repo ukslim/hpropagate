@@ -30,7 +30,7 @@
     "express": "^4.16.4",
     "request": "^2.88.0",
     "sinon": "^7.3.1",
-    "supertest": "^3.3.0",
+    "supertest": "^3.4.2",
     "tape": "4.11.0"
   }
 }
